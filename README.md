@@ -47,8 +47,3 @@ The app is then ready for deployment!
 ## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-### Developer of Website
-
-Written by [Sarmad Gardezi](https://sarmadgardezi.com). I am Google Developers Expert for Firebase and Google Apps Script. 
-Follow me on [@twitter](https://twitter.com/sarmadgardezi).
